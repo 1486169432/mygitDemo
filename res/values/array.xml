@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="interval_time">
+    <item>10秒</item>
+    <item>15秒</item>
+    <item>20秒</item>
+    <item>25秒</item>
+    <item>30秒</item>
+    <item>40秒</item>
+    <item>50秒</item>
+    <item>1分钟</item>
+    <item>5分钟</item>
+    <item>10分钟</item>
+</string-array>
+
+<string-array name="end_time">
+    <item>10分钟</item>
+    <item>15分钟</item>
+    <item>20分钟</item>
+    <item>25分钟</item>
+    <item>30分钟</item>
+    <item>1小时</item>
+    <item>24小时</item>
+   
+</string-array>
+
+</resources>
+
